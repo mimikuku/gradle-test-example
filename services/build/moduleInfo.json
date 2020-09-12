@@ -1,0 +1,12 @@
+{
+  "id" : "org.jfrog.example.gradle:services:1.0-SNAPSHOT",
+  "artifacts" : [ {
+    "type" : "ivy",
+    "sha1" : "967f71dfeb3f9b0ed8f41d39fb2806c1f1565a5f",
+    "md5" : "096ac79771a11947153d395662859661",
+    "name" : "ivy-1.0-SNAPSHOT.xml",
+    "path" : "libs-snapshot-local/org/jfrog/example/gradle/services/ivy-1.0-SNAPSHOT.xml"
+  } ],
+  "excludedArtifacts" : [ ],
+  "dependencies" : [ ]
+}

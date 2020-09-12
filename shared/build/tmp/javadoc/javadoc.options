@@ -1,0 +1,7 @@
+-classpath '/home/mike/Documents/testAsmtFolder/testJenkins/project-examples/gradle-examples/gradle-example/shared/build/classes/java/main:/home/mike/Documents/testAsmtFolder/testJenkins/project-examples/gradle-examples/gradle-example/shared/build/resources/main'
+-d '/home/mike/Documents/testAsmtFolder/testJenkins/project-examples/gradle-examples/gradle-example/shared/build/docs/javadoc'
+-doctitle 'shared 1.0-SNAPSHOT API'
+-quiet 
+-windowtitle 'shared 1.0-SNAPSHOT API'
+'/home/mike/Documents/testAsmtFolder/testJenkins/project-examples/gradle-examples/gradle-example/shared/src/main/java/org/gradle/shared/package-info.java'
+'/home/mike/Documents/testAsmtFolder/testJenkins/project-examples/gradle-examples/gradle-example/shared/src/main/java/org/gradle/shared/Person.java'

@@ -1,0 +1,36 @@
+{
+  "id" : "org.jfrog.example.gradle:shared:1.0-SNAPSHOT",
+  "artifacts" : [ {
+    "type" : "javadoc-jar",
+    "sha1" : "b27fd6bb801cc3b574486820d7b72dd0f00b02cc",
+    "md5" : "5df990a0b567f5ec0c7e0de4861362cb",
+    "name" : "shared-1.0-SNAPSHOT-javadoc.jar",
+    "path" : "libs-snapshot-local/org/jfrog/example/gradle/shared/1.0-SNAPSHOT/shared-1.0-SNAPSHOT-javadoc.jar"
+  }, {
+    "type" : "sources-jar",
+    "sha1" : "fd7535b7c302f5235be532a1b94467704fdec006",
+    "md5" : "b7d883962eecf8fef0050212af216ed4",
+    "name" : "shared-1.0-SNAPSHOT-sources.jar",
+    "path" : "libs-snapshot-local/org/jfrog/example/gradle/shared/1.0-SNAPSHOT/shared-1.0-SNAPSHOT-sources.jar"
+  }, {
+    "type" : "jar",
+    "sha1" : "03ce3dfe3c272bc13af22befef5abc653cb8bd49",
+    "md5" : "4d88d305f694e8ba93b7835186ba6b7d",
+    "name" : "shared-1.0-SNAPSHOT.jar",
+    "path" : "libs-snapshot-local/org/jfrog/example/gradle/shared/1.0-SNAPSHOT/shared-1.0-SNAPSHOT.jar"
+  }, {
+    "type" : "ivy",
+    "sha1" : "b3f549665551fd975cede1cb6c8b6dcb925114cb",
+    "md5" : "c2a807321f6339a007bccdf69b6aafc0",
+    "name" : "ivy-1.0-SNAPSHOT.xml",
+    "path" : "libs-snapshot-local/org/jfrog/example/gradle/shared/ivy-1.0-SNAPSHOT.xml"
+  }, {
+    "type" : "pom",
+    "sha1" : "64114f5901de947bca02b3d312e55bd93c0b7ef2",
+    "md5" : "d9c4ee4684e2c5ae5c2e11c4fa92777c",
+    "name" : "shared-1.0-SNAPSHOT.pom",
+    "path" : "libs-snapshot-local/org/jfrog/example/gradle/shared/1.0-SNAPSHOT/shared-1.0-SNAPSHOT.pom"
+  } ],
+  "excludedArtifacts" : [ ],
+  "dependencies" : [ ]
+}
