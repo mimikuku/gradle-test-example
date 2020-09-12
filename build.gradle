@@ -117,7 +117,7 @@ artifactory {
       properties {
         all '*:*:1.*:*@*', key1: 'val1', key2: 'val2'
         all 'org.jfrog.*:*:1.*:*@jar*', key3: 'val3', key4: 'val4'
-        all 'com.example.*:*:*@jar'
+        all 'com.example.*:*:*:*@jar', key5: 'val4', key6: 'val6'
       }
       publishPom = true // Publish generated POM files to Artifactory (true by default)
       publishIvy = true // Publish generated Ivy descriptor files to Artifactory (true by default)
